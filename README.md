@@ -35,8 +35,7 @@ Non linear programming
 https://colab.research.google.com/github/krutika234/BSE__IIT-PATNA_OPTIMIZATION-2021/blob/main/Non_linear_programming%20.ipynb
 
 Unconstrained optimization 
-https://colab.research.google.com/github/krutika234/BSE__IIT-PATNA_OPTIMIZATION-2021/blob/main/Unconstarint%20optimization.ipynb
-
+https://colab.research.google.com/github/krutika234/BSE__IIT-PATNA_OPTIMIZATION-2021/blob/main/Unconstraint%20optimization.ipynb
 
 Non convex optimization
 https://colab.research.google.com/github/krutika234/BSE__IIT-PATNA_OPTIMIZATION-2021/blob/main/Non-convex_optimization.ipynb
